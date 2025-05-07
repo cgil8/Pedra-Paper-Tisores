@@ -1,3 +1,5 @@
+![la imatge portada](/img.png)
+
 Pedra Paper Tisores és un joc clàssic que de ben segur coneixes molt bé. 
 
 Per fer aquesta activitat, has de copiar al teu VSCode el document pedra_paper_tisores.py. 
